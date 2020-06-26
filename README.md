@@ -4,6 +4,7 @@
 
 ### I've compiled my own dataset for this project and you can find it as Poems.txt
 
+### This is the poem I created: 
 
 #### * Through enternity shall she love you 
 #### * to be too away is true for the light is a man in the sun 
